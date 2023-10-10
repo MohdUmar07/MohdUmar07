@@ -2,6 +2,8 @@
 <br>
 
 # Hi 👋, I'm Mohd Umar
+
+<img  width="25%" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> 
 <p>I am a Computer application student and a freshers intern as a MERN Stack developer. I am passionate about computer science and I am eager to learn and grow as a developer. I have experience with the MERN Stack, including React, Node.js, Express.js, and MongoDB. I am also familiar with other technologies such as HTML, CSS, JavaScript, and Python. I am a hard worker and I am always willing to go the extra mile. I am also a team player and I am always willing to help others. I am excited to start my career as a software developer and I look forward to making a positive impact on the world.<p>
 
 
@@ -29,8 +31,8 @@
 <br>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohdumar2506/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="60" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/https://twitter.com/anasanw67848204?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" width="60" /></a>&nbsp;&nbsp;
-<a href="mailto:mohdumar2506@outlook.com" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/email-icon/email-icon-23.png" height="50" width="60" /></a>&nbsp;&nbsp;
+<a href=https://twitter.com/ICodeAlchemist?t=9Th_7moj5WdDnUKkXNkWQQ&s=09"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" width="60" /></a>
+
 </p><br>
 
 
