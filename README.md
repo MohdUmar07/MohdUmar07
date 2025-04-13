@@ -37,7 +37,14 @@
 
 
 # My GitHub Stats
-
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MohdUmar07.MohdUmar07&left_color=steelblue&right_color=cyan&left_text=profile%20views" width="130px" alt="Profile Views Badge"/>
+  <p align="left" class="tropy2">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+ <img src="https://github-profile-trophy.vercel.app/?username=MohdUmar07&theme=flat" alt="GitHub Profile Trophy"/>
+ </a>
+  </p>
+</div>
 <div>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdumar07&theme=prussian&background=45%2C251784%2C903BA8" alt="mohdumar07" /></p> <br><br>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdumar07&theme=prussian&background=45%2C251784%2C904CB8" alt="mohdumar07" /></p>
