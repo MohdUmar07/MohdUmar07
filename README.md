@@ -41,7 +41,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MohdUmar07.MohdUmar07&left_color=steelblue&right_color=cyan&left_text=profile%20views" width="130px" alt="Profile Views Badge"/>
   <p align="left" class="tropy2">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
- <img src="https://github-profile-trophy.vercel.app/?username=MohdUmar07&theme=flat" alt="GitHub Profile Trophy"/>
+ <img src="https://github-profile-trophy.vercel.app/?username=MohdUmar07&theme=darkhub" alt="GitHub Profile Trophy"/>
  </a>
   </p>
 </div>
