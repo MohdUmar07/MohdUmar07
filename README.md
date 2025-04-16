@@ -1,11 +1,10 @@
 ![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
 <br>
 
-# Hi, 👋 I'm Mohd Umar
+# 𝙃𝙚𝙡𝙡𝙤,👋 𝙄'𝙢 Mohd Umar
 
 <img  width="25%" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> 
-<p>I am a Bachelor Computer Application (BCA) student and a fresher MERN Stack developer. I am passionate about computer science, and I am eager to learn and grow as a developer. I have experience with the MERN Stack, including React, Node.js, Express.js, and MongoDB. I am also familiar with other technologies such as HTML, CSS, JavaScript, and Python. I am a hard worker, and I am always willing to go the extra mile. I am also a team player and always willing to help others. I am excited to start my career as a software developer, and I look forward to positively impacting the world.<p>
-
+<p>I am a Bachelor of Computer Application (BCA) student and a fresher MERN Stack developer. I am passionate about computer science, and I am eager to learn and grow as a developer. I have experience with the MERN Stack, including React, Node.js, Express.js, and MongoDB. I am also familiar with other technologies such as HTML, CSS, JavaScript, and Python. I am a hard worker, and I am always willing to go the extra mile. I am also a team player and always willing to help others. I am excited to start my career as a software developer, and I look forward to positively impacting the world.<p>
 
 # Languages and Tools
 <p align="center">  
@@ -34,7 +33,6 @@
 <a href=https://twitter.com/ICodeAlchemist?t=9Th_7moj5WdDnUKkXNkWQQ&s=09"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" width="60" /></a>
 
 </p><br>
-
 
 # My GitHub Stats
 <div align="left">
