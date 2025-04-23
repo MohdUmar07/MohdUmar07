@@ -4,7 +4,7 @@
 # 𝙃𝙚𝙡𝙡𝙤,👋 𝙄'𝙢 Mohd Umar
 
 <img  width="25%" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> 
-<p>I am a Bachelor of Computer Applications, (BCA) student and a fresher MERN Stack developer. I am passionate about computer science, and I am eager to learn and grow as a developer. I have experience with the MERN Stack, including React, Node.js, Express.js, and MongoDB. I am also familiar with other technologies such as HTML, CSS, JavaScript, and Python. I am a hard worker, and I am always willing to go the extra mile. I am also a team player and always willing to help others. I am excited to start my career as a software developer, and I look forward to positively impacting the world.<p>
+<p>I am a Bachelor of Computer Applications (BCA) student and a fresher MERN Stack developer. I am passionate about computer science, and I am eager to learn and grow as a developer. I have experience with the MERN Stack, including React, Node.js, Express.js, and MongoDB. I am also familiar with other technologies such as HTML, CSS, JavaScript, and Python. I am a hard worker, and I am always willing to go the extra mile. I am also a team player and always willing to help others. I am excited to start my career as a software developer, and I look forward to positively impacting the world.<p>
 
 # Languages and Tools
 <p align="center">  
