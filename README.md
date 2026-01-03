@@ -1,49 +1,87 @@
-![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
-<br>
-
-# 𝙃𝙚𝙡𝙡𝙤,👋 𝙄'𝙢 Mohd Umar
-
-<img  width="25%" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> 
-<p>I am a Bachelor of Computer Applications (BCA) student and a fresher MERN Stack developer. I am passionate about computer science, and I am eager to learn and grow as a developer. I have experience with the MERN Stack, including React, Node.js, Express.js, and MongoDB. I am also familiar with other technologies such as C, C++, Java and Python. I am a hard worker, and I am always willing to go the extra mile. I am also a team player and always willing to help others. I am excited to start my career as a software developer, and I look forward to positively impacting the world.<p>
-
-# Languages and Tools
-<p align="center">  
-<img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /> &nbsp;&nbsp;
-<img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />  &nbsp;&nbsp;
-<img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> &nbsp;&nbsp;
-<img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>  &nbsp;&nbsp;
-<img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/> &nbsp;&nbsp;
-<img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/> &nbsp;&nbsp;
-<img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" /> &nbsp;&nbsp;
-<img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
-<img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /> </a>&nbsp;&nbsp;
-<img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />  &nbsp;&nbsp;
-<img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />  &nbsp;&nbsp;
-<img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> &nbsp;&nbsp;
-<img width="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>  &nbsp;&nbsp;
-<img width="60" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> &nbsp;&nbsp;
-<img width="60" src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" /> </a>&nbsp;&nbsp;
-</p>
-<br><br>
-
-# Connect with me
-<br>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohdumar2506/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="60" /></a>&nbsp;&nbsp;
-<a href=https://twitter.com/ICodeAlchemist?t=9Th_7moj5WdDnUKkXNkWQQ&s=09"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" width="60" /></a>
-
-</p><br>
-
-# My GitHub Stats
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MohdUmar07.MohdUmar07&left_color=steelblue&right_color=cyan&left_text=profile%20views" width="130px" alt="Profile Views Badge"/>
-  <p align="left" class="tropy2">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
- <img src="https://github-profile-trophy.vercel.app/?username=MohdUmar07&theme=darkhub" alt="GitHub Profile Trophy"/>
- </a>
-  </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohd%20Umar&fontSize=80&animation=fadeIn" />
+ 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
 </div>
-<div>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdumar07&theme=prussian&background=45%2C251784%2C903BA8" alt="mohdumar07" /></p> <br><br>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdumar07&theme=prussian&background=45%2C251784%2C904CB8" alt="mohdumar07" /></p>
+
+---
+
+### 👨‍💻 About Me
+
+I am a **BCA greduate** and a passionate **Software Developer**. I specialize in building scalable web applications using MongoDB/PostgreSQL, Express, React, and Node.js. My goal is to craft seamless digital experiences while constantly expanding my technical horizon.
+
+- 🔭 I’m currently working on **Full Stack Projects**
+- 🌱 I’m currently learning **Advanced System Design & Cloud Deployment**
+- 💬 Ask me about **React, Node.js, or Databaces**
+- ⚡ Fun fact: I love turning chai into clean, efficient code.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+ 
+ <a href="https://github.com/MohdUmar07">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/MohdUmar07?cardType=level&theme=tokyonight&hide_border=true" alt="MohdUmar07's GitHub Level" />
+  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohdUmar07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+
+ <br />
+ 
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohdUmar07&layout=compact&theme=tokyonight&hide_border=true" height="170px" alt="Top Languages"/>
+ 
+</div>
+
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdUmar07&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mohdumar2506/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/ICodeAlchemist" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:umohd9554@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohdumar07&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
 </div>
