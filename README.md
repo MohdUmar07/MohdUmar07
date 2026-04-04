@@ -13,7 +13,7 @@ I am a **BCA greduate** and a passionate **Software Developer**. I specialize in
 - 🔭 I’m currently working on **Full Stack Projects**
 - 🌱 I’m currently learning **Advanced System Design & Cloud Deployment**
 - 💬 Ask me about **React, Node.js, or Databaces**
-- ⚡ Fun fact: I love turning chai into clean, efficient code.
+<!-- ⚡ Fun fact: I love turning chai into clean, efficient code. -->
 
 ---
 
