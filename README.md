@@ -59,6 +59,25 @@ I am a **BCA greduate** and a passionate **Software Developer**. I specialize in
 
 ---
 
+##  GitHub Trophies
+
+<div align="center">
+<p align="center">
+  <a href="https://github.com/MohdUmar07">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=MohdUmar07&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=MohdUmar07&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=MohdUmar07&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+
+</div>
+
+---
+
+---
+
+
 ### 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdUmar07&theme=tokyonight&hide_border=true&area=true" width="100%" />
