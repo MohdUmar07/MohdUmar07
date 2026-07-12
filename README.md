@@ -10,9 +10,9 @@
 
 I am a **BCA greduate** and a passionate **Software Developer**. I specialize in building scalable web applications using MongoDB/PostgreSQL, Express, React, and Node.js. My goal is to craft seamless digital experiences while constantly expanding my technical horizon.
 
-- 🔭 I’m currently working on **Full Stack Projects**
-- 🌱 I’m currently learning **Advanced System Design & Cloud Deployment**
-- 💬 Ask me about **React, Node.js, or Databaces**
+- 🔭 I’m currently working on **Full Stack Projects.**
+- 🌱 I’m currently learning **Advanced System Design & Cloud Deployment.**
+- 💬 Ask me about **React, Node.js, or Databaces.**
 <!-- ⚡ Fun fact: I love turning chai into clean, efficient code. -->
 
 ---
